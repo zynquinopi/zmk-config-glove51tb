@@ -1,5 +1,9 @@
 #include "rhea.dtsi"
 
+&mo {
+    label = "mo";
+};
+
 &default_transform {
     col-offset = <7>;
 };
