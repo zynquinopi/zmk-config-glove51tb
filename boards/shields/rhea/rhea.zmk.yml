@@ -1,0 +1,8 @@
+file_format: "1"
+id: rhea
+name: Rhea
+type: shield
+url: https://github.com/zynquinopi/zmk-config-glove51tb
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

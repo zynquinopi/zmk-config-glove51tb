@@ -20,12 +20,12 @@
 ---
 include:
 - board: seeeduino_xiao_ble
-  shield: glove51tb_R rgbled_adapter
+  shield: rhea_R rgbled_adapter
   snippet: studio-rpc-usb-uart
-  artifact-name: glove51tb_R
+  artifact-name: rhea_R
 - board: seeeduino_xiao_ble
-  shield: glove51tb_L rgbled_adapter
-  artifact-name: glove51tb_L
+  shield: rhea_L rgbled_adapter
+  artifact-name: rhea_L
 - board: seeeduino_xiao_ble
   shield: settings_reset
   artifact-name: settings_reset

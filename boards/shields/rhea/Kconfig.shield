@@ -1,0 +1,5 @@
+config SHIELD_RHEA_R
+    def_bool $(shields_list_contains,rhea_R)
+
+config SHIELD_RHEA_L
+    def_bool $(shields_list_contains,rhea_L)
