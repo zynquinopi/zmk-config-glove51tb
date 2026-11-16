@@ -1,7 +1,7 @@
 #include "rhea.dtsi"
 
 &default_transform {
-    col-offset = <7>;
+    col-offset = <6>;
 };
 
 // Sensor pins: MOTION = &xiao_d 5, SDIO = &xiao_d 9, SCLK = &xiao_d 8, CS = &xiao_d 7.
