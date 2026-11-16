@@ -82,9 +82,6 @@
         diode-direction = "col2row";
     };
 
-    vbatt: vbatt {
-        status = "disabled";
-    };
 };
 
 /* D4/D5 are used by the matrix; disable the board's default I2C1 pinctrl. */
